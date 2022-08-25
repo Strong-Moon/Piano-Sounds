@@ -1,5 +1,5 @@
 # Piano-Sounds
-You can play piano in this website. Used HTML-CSS-JS
+You can play piano in this website. Used HTML-CSS-JS.
 
 # Why I did this?
 In order to develop myself in the JavaScript part. I wanted to see if can i do an instrument on the website.
