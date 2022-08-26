@@ -26,3 +26,11 @@ l = do(thin)
 
 and also you can click with mouse.  
 
+# What does it look like?
+## Width = Full Page
+
+![Piano Sounds](https://user-images.githubusercontent.com/110940123/186907761-950f8c30-37bc-4eea-8a02-d421786116af.png)
+
+## Width = Half of the page
+
+![Piano Sounds2](https://user-images.githubusercontent.com/110940123/186907866-ac7ccf6c-3a2d-4a05-9435-5c9ac731b297.png)
